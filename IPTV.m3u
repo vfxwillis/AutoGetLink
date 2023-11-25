@@ -692,6 +692,4 @@ http://192.168.10.250:8188/udp/239.93.1.138:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 星空精选画中画
 http://192.168.10.250:8188/udp/239.93.0.230:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
-http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
-https://cntv.sbs/tv?auth=2309081833&id=wxty
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
