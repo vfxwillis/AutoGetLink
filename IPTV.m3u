@@ -691,9 +691,14 @@ http://192.168.10.250:8188/udp/239.93.1.136:5140
 http://192.168.10.250:8188/udp/239.93.1.138:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 星空精选画中画
 http://192.168.10.250:8188/udp/239.93.0.230:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育2
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育3
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育1
+https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育2
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海", 五星体育2
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="F1TV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="F1", F1TV
+https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1TV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="F1", F1TV
+https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
+
