@@ -1,0 +1,5 @@
+# proxy域名
+DOMAIN-SUFFIX,linkedin.com
+
+# proxy关键词
+DOMAIN-KEYWORD,linkedin
