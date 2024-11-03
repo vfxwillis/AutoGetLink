@@ -1,4 +1,4 @@
-#EXTM3U
+of#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视", CCTV-1高清
 http://192.168.10.250:8188/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视", CCTV-2高清
@@ -700,6 +700,6 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="F1TV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="F1", F1TV
 https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F1TV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="F1", F1TV
-https://6721.liveplay.now.qq.com/live/6721_341022fd094d62a37485c2a91bbb7c78.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281 
 #EXTINF:-1 tvg-id="" tvg-name="F1TV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="F1", F1TV
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
